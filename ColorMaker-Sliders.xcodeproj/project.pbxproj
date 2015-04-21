@@ -409,6 +409,7 @@
 				33E715BD1ADC89DB00CB1AAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		33E715BE1ADC89DB00CB1AAB /* Build configuration list for PBXNativeTarget "ColorMaker-SlidersTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				33E715C01ADC89DB00CB1AAB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
